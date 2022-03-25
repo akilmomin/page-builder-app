@@ -1,0 +1,78 @@
+[
+    {
+        "Type": "Section",
+        "IsGrid": true,
+        "GridValue": "12",
+        "children": [
+            {
+                "Type": "SubSection",
+                "IsGrid": true,
+                "GridValue": "8",
+                "children": [
+                    {
+                        "Type": "SubSection",
+                        "IsGrid": true,
+                        "GridValue": "12",
+                        "children": [
+                            {
+                                "Type": "Component",
+                                "ComponentName": "Banner"
+                            }
+                        ]
+                    },
+                    {
+                        "Type": "SubSection",
+                        "IsGrid": true,
+                        "GridValue": "12",
+                        "children": [
+                            {
+                                "Type": "Component",
+                                "ComponentName": "QuickTiles"
+                            }
+                        ]
+                    },
+                    {
+                        "Type": "SubSection",
+                        "IsGrid": true,
+                        "GridValue": "12",
+                        "children": [
+                            {
+                                "Type": "SubSection",
+                                "IsGrid": true,
+                                "GridValue": "4",
+                                "children": [
+                                    {
+                                        "Type": "Component",
+                                        "ComponentName": "BusinessPaper"
+                                    }
+                                ]
+                            },
+                            {
+                                "Type": "SubSection",
+                                "IsGrid": true,
+                                "GridValue": "4",
+                                "children": [
+                                    {
+                                        "Type": "Component",
+                                        "ComponentName": "News"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Type": "SubSection",
+                "IsGrid": true,
+                "GridValue": "4",
+                "children": [
+                    {
+                        "Type": "Component",
+                        "ComponentName": "Event"
+                    }
+                ]
+            }
+        ]
+    }
+]
